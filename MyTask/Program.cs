@@ -150,6 +150,7 @@ namespace MyTask
             if (input == "0")
             {
                 timer.Stop();
+
             }
         }
 
